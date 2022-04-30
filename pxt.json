@@ -1,5 +1,5 @@
 {
-    "name": "rnp",
+    "name": "rock-paper-scissors",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -25,5 +25,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
